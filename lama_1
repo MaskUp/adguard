@@ -39491,22 +39491,6 @@ vkcdnservice.appspot.com^
 ||yourblocksite.com^
 ||taskapi.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42797
-! goguardian tracking
-||beacon-fullpage-predictor.goguardian.com^
-||countvoncount.goguardian.com^
-||ext.goguardian.com^
-||inquisition.goguardian.com^
-||ip.goguardian.com^
-||panther.goguardian.com^
-||quiddity.goguardian.com^
-||sakura.goguardian.com^
-||screenshots.goguardian.com^
-||snat.goguardian.com^
-||sock*-goguardian.pusher.com^
-||sockjs-goguardian.pusher.com^
-||ws-goguardian.pusher.com^
-||x3-policy-maker.goguardian.com^
-||x3-predictor.goguardian.com^
 !
 ||jp-axia.m0mentum.net^
 ! Keyade

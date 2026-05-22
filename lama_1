@@ -35432,7 +35432,6 @@ vkcdnservice.appspot.com^
 ||cdp.cloud.unity3d.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||thind-gke-euw.prd.data.corp.unity3d.com^
-||unityads.unity3d.com^
 ||gop1.co^
 ||nkis.nikkei.com^
 ||gameanalysis.appcpi.net^
@@ -36101,7 +36100,6 @@ vkcdnservice.appspot.com^
 ||b.karte.io^
 ||cra.hum.works^
 ||log.trackingio.com^
-||google-analytics.com^
 ||iad.anm.co.uk^
 ||cdn.pranmcpkx.com^
 ||cdn.czx5eyk0exbhwp43ya.biz^
@@ -42139,7 +42137,6 @@ inapps.appsflyersdk.com^
 ||tracking.prd.mz.internal.unity3d.com^
 ||publisher-event.ads.prd.ie.internal.unity3d.com^
 ||userreporting.cloud.unity3d.com^
-||analytics.cloud.unity3d.com^
 ||sg01.rayjump.com^
 ||cafe-log.myshoplus.com^
 ||de01.rayjump.com^
@@ -57694,3 +57691,8 @@ analytics-*.aasaam.com
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
+
+@@||roblox.com^$important
+@@||rbxcdn.com^$important
+@@||setup.roblox.com^$important
+@@||api.roblox.com^$important

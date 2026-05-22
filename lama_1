@@ -57693,6 +57693,9 @@ analytics-*.aasaam.com
 @@||omniture.walmart.com^|
 
 @@||roblox.com^$important
+@@||www.roblox.com^$important
 @@||rbxcdn.com^$important
 @@||setup.roblox.com^$important
 @@||api.roblox.com^$important
+@@||static.rbxcdn.com^$important
+@@||js.rbxcdn.com^$important
